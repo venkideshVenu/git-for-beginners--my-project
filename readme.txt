@@ -1,4 +1,4 @@
 Welcome to my Project
 
-Author : Venkidesh
+Author : Venkidesh Venu
 Twitter : @venkidesh0203_s3csai
